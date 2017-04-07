@@ -39,3 +39,6 @@ allprojects {
             public <T extends InfoBean> void getAlbumList(List<T> list) {
                 List<VideoInfo> imageFolderBeen = (List<VideoInfo>) list;
             }
+
+
+E-Mall 1029293806@qq.com
